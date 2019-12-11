@@ -137,3 +137,7 @@ The HTTP status code of an error response will be in the 4** or 5** range.
 Example:
 
 `{"result":"ERROR","errorMessage":"IssueIdOrKey parameter can not be null!"}`
+
+## License
+
+You can find the license to this app [here](License.md).
