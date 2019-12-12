@@ -1,8 +1,8 @@
-TEMPEST, A.S.
+__TEMPEST, A.S.__
 
-FREE LICENSE
+__FREE LICENSE__
 
-BASE64 ATTACHMENT UPLOAD REST API
+__BASE64 ATTACHMENT UPLOAD REST API__
 
 * This application is property of TEMPEST a.s. and can't be copied and/or distributed without the express permission of TEMPEST a.s.
 * Free to use for all commercial and non-commercial purposes.
