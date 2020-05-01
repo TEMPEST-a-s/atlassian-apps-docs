@@ -44,7 +44,9 @@ In order to display Add-On panels and tabs, both tenant credentials and issue pr
 
 ### Live Problem Status Overview
 If the JIRA ticket is linked with a Dynatrace Problem the Add-On will query LIVE data through the Dynatrace Problem REST API and display the information in a panel.
+
 ![](./images/problem-overview.png)
+
 Provided information contains
 
 * ID and a name as an url to the problem
