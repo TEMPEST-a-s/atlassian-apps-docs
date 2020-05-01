@@ -8,8 +8,10 @@ The [Dynatrace for Jira Cloud](https://marketplace.atlassian.com/apps/1217645/dy
 * Direct links to root cause dashboards from your JIRA ticket
 * Enable JQL queries based on Dynatrace Problem data: severity, impact, tags, ...
 
-Originaly started as a [Dynatrace](https://www.dynatrace.com) plugin, but based on an agreement with them, we started to provide support and enhacements for this plugin.
+Originaly started as a [Dynatrace](https://www.dynatrace.com) plugin, but based on an agreement with them, we started to provide support and enhancements for this plugin.
+
 Want to see the Add-On in action? [Watch this video](https://www.youtube.com/watch?v=px4ec9C32I4).
+
 Want to learn more about this Add-On creation? [Read Atlassian Connect blog](https://www.dynatrace.com/blog/atlassian-connect-ing-devops-tools-jira-xmatters-dynatrace/).
 
 Interested in **Jira Server** on premise version? [We got it!](https://www.tempest.sk/dynatrace-integration-for-jira/)
