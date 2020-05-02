@@ -18,7 +18,7 @@ Interested in **Jira Server** on premise version? [We got it!](https://www.tempe
 
 ## Getting started with this Add-On
 In order to use this integration you need
-1. A Dynatrace FullStack instance (Managed or SaaS): [Get your own Dynatrace SaaS Trial in 3 minutes](https://www.dynatrace.com/trial/?utm_source=andreasgrabner&utm_medium=github&utm_content=voucher&utm_campaign=1000-free-hours-andreasgrabner).
+1. A Dynatrace FullStack instance (Managed or SaaS): [Get your own Dynatrace SaaS Trial](https://dynatrace.ai/tempest).
 2. A Dynatrace API Token: In Dynatrace go to Settings -> Integration -> Dynatrace API and create a new token (with proper permissions - read problems and add comments).
 3. A JIRA cloud instance: [Get your JIRA Cloud instance](https://www.atlassian.com/software/jira/try).
 4. (optionally but recommended). Configure the [Dynatrace to JIRA Integration](https://www.dynatrace.com/blog/integrate-jira-issue-tracking-dynatrace-environment/).
