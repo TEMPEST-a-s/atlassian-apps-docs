@@ -76,9 +76,26 @@ Dynatrace comments are displayed in Jira in a dedicated Dynatrace Comments tab. 
 
 ![](./images/comment-sync-md.png)
 
+### Setup Dynatrace Dashboard
+The **Dynatrace integration for Jira Cloud** also provides multiple custom fields that are automatically filled with Dynatrace context of linked problems stored in issues properties. You can use the fields to visualize such context directly on linked issue.
+
+These fields are available for you:
+- Problem Name (DT) - The name of the problem, displayed in the UI.
+- Problem ID (DT) - The ID of the problem.
+- Problem Status (DT) - The status of the problem.
+- Impact Level (DT) - The impact level of the problem. It shows what is affected by the problem: infrastructure, service, or application.
+- Severity Level (DT) - The severity of the problem.
+- Has Root Cause (DT) - Indicates whether Dynatrace has found at least one possible root cause for the problem.
+
+Custom fields, together with our JQL functions, can be used to build custom Dynatrace dashboards with use of gadgets like **Filter Results** or **Filter Counts**.
+
+![](./images/dashboard-example.png)
+
+**Note:** Values are created during the event of linking a problem with an issue, whether it is on issue creation or by passing the problem URL into the issue description. These values are not updated over time.
 
 ### Error
 If it is possible, we try to handle errors visually with appropriate message.
+
 ![](./images/error.png)
 
 ## What's next?
